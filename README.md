@@ -11,9 +11,12 @@ packages
 [ pillow==5.3.0 ]
 [ opencv-python ]
 [ atari-py ]
+
+
+# Train Model and Test
+
 go to "Final" directory
 
-# Train Model
 run Pong_DQN_Deterministic_v0 file for training.
 
 run test file to play
