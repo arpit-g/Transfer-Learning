@@ -15,7 +15,7 @@ packages
 
 # Train Model and Test
 
-go to "Final" directory
+go to "Final Model" directory
 
 run Pong_DQN_Deterministic_v0 file for training.
 
